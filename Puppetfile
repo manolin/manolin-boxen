@@ -56,4 +56,4 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "sublime_text_3", "1.0.2"
+github "sublime_text_3", "1.0.2", :repo => "jozefizso/puppet-sublime_text_3"
