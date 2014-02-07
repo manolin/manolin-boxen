@@ -58,6 +58,9 @@ node default {
   include hub
   include nginx
 
+  # Manolin additions
+  include sublime_text_3
+
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
     fail('Please enable full disk encryption and try again')
