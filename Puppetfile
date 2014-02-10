@@ -58,3 +58,4 @@ github "xquartz",    "1.1.0"
 
 github "java", "1.2.0"
 github "sublime_text_3", "1.0.2", :repo => "jozefizso/puppet-sublime_text_3"
+github "postgresql", "3.0.1"
