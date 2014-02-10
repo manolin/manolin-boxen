@@ -56,5 +56,6 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+github "java", "1.2.0"
 github "sublime_text_3", "1.0.2", :repo => "jozefizso/puppet-sublime_text_3"
 github "androidstudio", "1.0.1", :repo => "DarkHorseComics/puppet-androidstudio"
