@@ -60,6 +60,7 @@ node default {
 
   # Manolin additions
   include sublime_text_3
+  include androidstudio
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {

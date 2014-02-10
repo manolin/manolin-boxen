@@ -57,3 +57,4 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 github "sublime_text_3", "1.0.2", :repo => "jozefizso/puppet-sublime_text_3"
+github "androidstudio", "1.0.1", :repo => "DarkHorseComics/puppet-androidstudio"
