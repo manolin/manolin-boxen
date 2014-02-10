@@ -61,6 +61,7 @@ node default {
   # Manolin additions
   include sublime_text_3
   include java
+  include sysctl
   include postgresql
 
   # fail if FDE is not enabled
